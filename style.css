@@ -1,0 +1,25 @@
+body{
+font-family: Arial, Helvetica,;
+
+}
+
+table,th,td{
+    border:1px solid blue;
+    text-align:center;
+    padding:5px
+    font: size 10px;
+}
+
+table{
+    width:70%;
+    box-shadow: 0 0 10px red;
+}
+
+/* top, left, right ,bottom */
+
+#test thead{
+    background-color: rgb(71, 214, 71);
+    color:blue;
+}
+
+
